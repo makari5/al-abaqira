@@ -1,6 +1,7 @@
 import { AnimatePresence, motion } from 'motion/react'
 import Lenis from 'lenis'
 import { useEffect, useMemo, useState } from 'react'
+import { Drawer } from 'vaul'
 import './App.css'
 import coverImage from './assets/abaqira-cover-2026.png'
 import {
@@ -131,6 +132,7 @@ function App() {
   const [direction, setDirection] = useState(1)
   const [categoryId, setCategoryId] = useState(questionCategories[0]?.id ?? '')
   const [scienceSubtopic, setScienceSubtopic] = useState('')
+  const [isMobileNavOpen, setIsMobileNavOpen] = useState(false)
 
   const selectedCategory = useMemo(
     () => questionCategories.find((category) => category.id === categoryId) ?? questionCategories[0],
@@ -211,11 +213,13 @@ function App() {
   const moveToPage = (targetPage: number) => {
     const safePage = Math.max(0, Math.min(pageLabels.length - 1, targetPage))
     if (safePage === currentPage) {
+      setIsMobileNavOpen(false)
       return
     }
 
     setDirection(safePage > currentPage ? 1 : -1)
     setCurrentPage(safePage)
+    setIsMobileNavOpen(false)
     window.scrollTo({ top: 0, behavior: 'smooth' })
   }
 
@@ -415,6 +419,42 @@ function App() {
           </div>
         </div>
       </header>
+
+      <Drawer.Root direction="right" open={isMobileNavOpen} onOpenChange={setIsMobileNavOpen}>
+        <Drawer.Trigger asChild>
+          <button type="button" className="mobile-nav-trigger" aria-label="فتح قائمة المراحل">
+            المراحل
+          </button>
+        </Drawer.Trigger>
+
+        <Drawer.Portal>
+          <Drawer.Overlay className="mobile-drawer-overlay" />
+          <Drawer.Content className="mobile-drawer-content" dir="rtl">
+            <div className="mobile-drawer-head">
+              <h3>التنقل بين المراحل</h3>
+              <Drawer.Close asChild>
+                <button type="button" className="mobile-drawer-close" aria-label="إغلاق قائمة المراحل">
+                  ×
+                </button>
+              </Drawer.Close>
+            </div>
+
+            <div className="mobile-drawer-list">
+              {pageLabels.map((label, index) => (
+                <button
+                  key={`mobile-${label}`}
+                  type="button"
+                  className={`mobile-drawer-item ${index === currentPage ? 'mobile-drawer-item--active' : ''}`}
+                  onClick={() => moveToPage(index)}
+                >
+                  <span>{label}</span>
+                  <span>{index + 1}</span>
+                </button>
+              ))}
+            </div>
+          </Drawer.Content>
+        </Drawer.Portal>
+      </Drawer.Root>
 
       <nav className="page-nav" aria-label="مراحل المسابقة">
         {pageLabels.map((label, index) => (
