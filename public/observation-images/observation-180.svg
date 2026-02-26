@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600">
+  <defs>
+    <linearGradient id="bg180" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#1D4ED8" />
+    </linearGradient>
+    <filter id="shadow180" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="1.8" flood-color="rgba(0,0,0,0.36)" />
+    </filter>
+  </defs>
+
+  <rect width="960" height="600" fill="url(#bg180)" />
+  <rect x="24" y="24" width="912" height="552" rx="20" fill="rgba(255,255,255,0.045)" stroke="rgba(255,255,255,0.22)" />
+  <g filter="url(#shadow180)">
+    <g transform="translate(434.84 405.10) rotate(3.34)"><circle cx="0" cy="0" r="15.31" fill="#22D3EE" /><circle cx="6.13" cy="-0.61" r="12.86" fill="#0B1A34" /></g>
+    <g transform="translate(123.31 337.52) rotate(-8.39)"><polygon points="0,-16.24 14.56,11.20 -14.56,11.20" fill="#C084FC" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /></g>
+    <g transform="translate(364.71 201.43) rotate(-8.14)"><path d="M 0 17.07 C -22.35 2.03, -24.38 -14.22, -9.75 -3.25 C -0.81 -17.07, 0.81 -17.07, 9.75 -3.25 C 24.38 -14.22, 22.35 2.03, 0 17.07 Z" fill="#22D3EE" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(822.82 67.80) rotate(27.72)"><path d="M 0 17.62 C -23.07 2.10, -25.17 -14.68, -10.07 -3.36 C -0.84 -17.62, 0.84 -17.62, 10.07 -3.36 C 25.17 -14.68, 23.07 2.10, 0 17.62 Z" fill="#A78BFA" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(135.01 394.04) rotate(4.12)"><circle cx="0" cy="0" r="19.96" fill="#34D399" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /><circle cx="-7.19" cy="-4.79" r="3.19" fill="#1F2937" /><circle cx="7.19" cy="-4.79" r="3.19" fill="#1F2937" /><path d="M -15.17 5.59 Q 0 13.57 15.17 5.59" fill="none" stroke="#1F2937" stroke-width="2.2" stroke-linecap="round" /></g>
+    <g transform="translate(682.38 201.02) rotate(-2.98)"><circle cx="0" cy="0" r="15.44" fill="#A78BFA" /><circle cx="6.17" cy="-0.62" r="12.97" fill="#0B1A34" /></g>
+    <g transform="translate(59.58 262.91) rotate(4.14)"><circle cx="0" cy="0" r="19.84" fill="#F97316" /><circle cx="7.94" cy="-0.79" r="16.67" fill="#0B1A34" /></g>
+    <g transform="translate(434.93 65.94) rotate(6.40)"><circle cx="0" cy="0" r="18.86" fill="#60A5FA" /><circle cx="7.55" cy="-0.75" r="15.85" fill="#0B1A34" /></g>
+    <g transform="translate(666.68 528.02) rotate(25.67)"><polygon points="0,-18.44 16.53,12.71 -16.53,12.71" fill="#4ADE80" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /></g>
+    <g transform="translate(441.82 140.01) rotate(-3.58)"><circle cx="0" cy="0" r="17.86" fill="#C084FC" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /><circle cx="-6.43" cy="-4.29" r="2.86" fill="#1F2937" /><circle cx="6.43" cy="-4.29" r="2.86" fill="#1F2937" /><path d="M -13.57 5.00 Q 0 12.14 13.57 5.00" fill="none" stroke="#1F2937" stroke-width="2.2" stroke-linecap="round" /></g>
+    <g transform="translate(204.44 66.60) rotate(20.15)"><path d="M 0 15.50 C -20.30 1.85, -22.14 -12.92, -8.86 -2.95 C -0.74 -15.50, 0.74 -15.50, 8.86 -2.95 C 22.14 -12.92, 20.30 1.85, 0 15.50 Z" fill="#A78BFA" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(200.15 325.54) rotate(24.48)"><polygon points="0.00,-20.17 5.17,-7.12 19.18,-6.23 8.37,2.72 11.85,16.31 0.00,8.80 -11.85,16.31 -8.37,2.72 -19.18,-6.23 -5.17,-7.12" fill="#A78BFA" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /></g>
+    <g transform="translate(669.64 396.09) rotate(0.98)"><circle cx="0" cy="0" r="15.67" fill="#FB7185" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /><circle cx="-5.64" cy="-3.76" r="2.51" fill="#1F2937" /><circle cx="5.64" cy="-3.76" r="2.51" fill="#1F2937" /><path d="M -11.91 4.39 Q 0 10.66 11.91 4.39" fill="none" stroke="#1F2937" stroke-width="2.2" stroke-linecap="round" /></g>
+    <g transform="translate(595.12 392.92) rotate(-1.79)"><path d="M 0 14.79 C -19.37 1.76, -21.13 -12.33, -8.45 -2.82 C -0.70 -14.79, 0.70 -14.79, 8.45 -2.82 C 21.13 -12.33, 19.37 1.76, 0 14.79 Z" fill="#4ADE80" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(368.31 135.80) rotate(-7.13)"><circle cx="0" cy="0" r="20.14" fill="#FBBF24" /><circle cx="8.06" cy="-0.81" r="16.92" fill="#0B1A34" /></g>
+    <g transform="translate(440.45 200.13) rotate(0.28)"><circle cx="0" cy="0" r="20.87" fill="#FB7185" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /><circle cx="-7.51" cy="-5.01" r="3.34" fill="#1F2937" /><circle cx="7.51" cy="-5.01" r="3.34" fill="#1F2937" /><path d="M -15.86 5.84 Q 0 14.19 15.86 5.84" fill="none" stroke="#1F2937" stroke-width="2.2" stroke-linecap="round" /></g>
+    <g transform="translate(134.63 201.45) rotate(27.85)"><path d="M 0 13.44 C -17.60 1.60, -19.20 -11.20, -7.68 -2.56 C -0.64 -13.44, 0.64 -13.44, 7.68 -2.56 C 19.20 -11.20, 17.60 1.60, 0 13.44 Z" fill="#F87171" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(360.00 64.76) rotate(1.06)"><path d="M 0 13.53 C -17.72 1.61, -19.33 -11.27, -7.73 -2.58 C -0.64 -13.53, 0.64 -13.53, 7.73 -2.58 C 19.33 -11.27, 17.72 1.61, 0 13.53 Z" fill="#34D399" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(752.22 404.83) rotate(-1.52)"><circle cx="0" cy="0" r="16.61" fill="#60A5FA" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /><circle cx="-5.98" cy="-3.99" r="2.66" fill="#1F2937" /><circle cx="5.98" cy="-3.99" r="2.66" fill="#1F2937" /><path d="M -12.62 4.65 Q 0 11.29 12.62 4.65" fill="none" stroke="#1F2937" stroke-width="2.2" stroke-linecap="round" /></g>
+    <g transform="translate(744.48 74.01) rotate(-0.18)"><circle cx="0" cy="0" r="16.08" fill="#A78BFA" /><circle cx="6.43" cy="-0.64" r="13.51" fill="#0B1A34" /></g>
+    <g transform="translate(366.76 403.63) rotate(-5.94)"><circle cx="0" cy="0" r="15.46" fill="#FBBF24" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /><circle cx="-5.56" cy="-3.71" r="2.47" fill="#1F2937" /><circle cx="5.56" cy="-3.71" r="2.47" fill="#1F2937" /><path d="M -11.75 4.33 Q 0 10.51 11.75 4.33" fill="none" stroke="#1F2937" stroke-width="2.2" stroke-linecap="round" /></g>
+  </g>
+</svg>

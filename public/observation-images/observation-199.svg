@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600">
+  <defs>
+    <linearGradient id="bg199" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#1D4ED8" />
+    </linearGradient>
+    <filter id="shadow199" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="1.8" flood-color="rgba(0,0,0,0.36)" />
+    </filter>
+  </defs>
+
+  <rect width="960" height="600" fill="url(#bg199)" />
+  <rect x="24" y="24" width="912" height="552" rx="20" fill="rgba(255,255,255,0.045)" stroke="rgba(255,255,255,0.22)" />
+  <g filter="url(#shadow199)">
+    <g transform="translate(137.10 394.75) rotate(27.93)"><path d="M 0 16.50 C -21.61 1.96, -23.58 -13.75, -9.43 -3.14 C -0.79 -16.50, 0.79 -16.50, 9.43 -3.14 C 23.58 -13.75, 21.61 1.96, 0 16.50 Z" fill="#4ADE80" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(910.39 535.00) rotate(9.15)"><rect x="-16.07" y="-4.74" width="32.13" height="9.47" rx="4.74" fill="#60A5FA" /><rect x="-4.74" y="-16.07" width="9.47" height="32.13" rx="4.74" fill="#60A5FA" /></g>
+    <g transform="translate(679.80 135.23) rotate(-7.94)"><circle cx="0" cy="0" r="14.91" fill="#F87171" /><circle cx="5.97" cy="-0.60" r="12.53" fill="#0B1A34" /></g>
+    <g transform="translate(51.27 465.52) rotate(2.84)"><circle cx="0" cy="0" r="14.72" fill="#F87171" /><circle cx="5.89" cy="-0.59" r="12.37" fill="#0B1A34" /></g>
+    <g transform="translate(208.11 463.11) rotate(-27.50)"><rect x="-17.51" y="-5.16" width="35.01" height="10.32" rx="5.16" fill="#C084FC" /><rect x="-5.16" y="-17.51" width="10.32" height="35.01" rx="5.16" fill="#C084FC" /></g>
+    <g transform="translate(910.57 199.16) rotate(-15.59)"><rect x="-19.87" y="-5.86" width="39.74" height="11.71" rx="5.86" fill="#F97316" /><rect x="-5.86" y="-19.87" width="11.71" height="39.74" rx="5.86" fill="#F97316" /></g>
+    <g transform="translate(446.10 266.64) rotate(-15.32)"><rect x="-16.16" y="-4.76" width="32.33" height="9.53" rx="4.76" fill="#A78BFA" /><rect x="-4.76" y="-16.16" width="9.53" height="32.33" rx="4.76" fill="#A78BFA" /></g>
+    <g transform="translate(355.51 398.76) rotate(8.53)"><rect x="-19.85" y="-5.85" width="39.70" height="11.70" rx="5.85" fill="#A78BFA" /><rect x="-5.85" y="-19.85" width="11.70" height="39.70" rx="5.85" fill="#A78BFA" /></g>
+    <g transform="translate(753.11 330.68) rotate(1.36)"><circle cx="0" cy="0" r="19.97" fill="#FB7185" /><circle cx="7.99" cy="-0.80" r="16.77" fill="#0B1A34" /></g>
+    <g transform="translate(835.08 259.43) rotate(-17.12)"><path d="M 0 16.26 C -21.29 1.94, -23.22 -13.55, -9.29 -3.10 C -0.77 -16.26, 0.77 -16.26, 9.29 -3.10 C 23.22 -13.55, 21.29 1.94, 0 16.26 Z" fill="#22D3EE" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(676.27 529.79) rotate(-26.43)"><polygon points="-16.03,-5.77 2.57,-5.77 2.57,-12.18 17.64,0.00 2.57,12.18 2.57,5.77 -16.03,5.77" fill="#FB7185" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(835.74 396.17) rotate(19.71)"><path d="M 0 16.37 C -21.44 1.95, -23.39 -13.64, -9.36 -3.12 C -0.78 -16.37, 0.78 -16.37, 9.36 -3.12 C 23.39 -13.64, 21.44 1.95, 0 16.37 Z" fill="#34D399" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(433.28 327.74) rotate(-0.86)"><path d="M 0 13.29 C -17.40 1.58, -18.98 -11.07, -7.59 -2.53 C -0.63 -13.29, 0.63 -13.29, 7.59 -2.53 C 18.98 -11.07, 17.40 1.58, 0 13.29 Z" fill="#22D3EE" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(438.24 465.50) rotate(-10.75)"><path d="M 0 13.69 C -17.93 1.63, -19.56 -11.41, -7.82 -2.61 C -0.65 -13.69, 0.65 -13.69, 7.82 -2.61 C 19.56 -11.41, 17.93 1.63, 0 13.69 Z" fill="#60A5FA" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(277.79 70.93) rotate(-7.69)"><polygon points="-17.51,-6.30 2.80,-6.30 2.80,-13.31 19.26,0.00 2.80,13.31 2.80,6.30 -17.51,6.30" fill="#4ADE80" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(905.71 325.70) rotate(-13.65)"><path d="M 0 16.79 C -21.99 2.00, -23.99 -13.99, -9.60 -3.20 C -0.80 -16.79, 0.80 -16.79, 9.60 -3.20 C 23.99 -13.99, 21.99 2.00, 0 16.79 Z" fill="#FB7185" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(915.80 404.74) rotate(7.01)"><circle cx="0" cy="0" r="16.07" fill="#34D399" /><circle cx="6.43" cy="-0.64" r="13.50" fill="#0B1A34" /></g>
+    <g transform="translate(515.90 397.89) rotate(-16.97)"><path d="M 0 15.29 C -20.02 1.82, -21.84 -12.74, -8.74 -2.91 C -0.73 -15.29, 0.73 -15.29, 8.74 -2.91 C 21.84 -12.74, 20.02 1.82, 0 15.29 Z" fill="#C084FC" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+  </g>
+</svg>

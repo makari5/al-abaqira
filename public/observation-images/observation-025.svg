@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600">
+  <defs>
+    <linearGradient id="bg25" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#1D4ED8" />
+    </linearGradient>
+    <filter id="shadow25" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="1.8" flood-color="rgba(0,0,0,0.36)" />
+    </filter>
+  </defs>
+
+  <rect width="960" height="600" fill="url(#bg25)" />
+  <rect x="24" y="24" width="912" height="552" rx="20" fill="rgba(255,255,255,0.045)" stroke="rgba(255,255,255,0.22)" />
+  <g filter="url(#shadow25)">
+    <g transform="translate(513.74 463.66) rotate(-8.57)"><polygon points="-17.30,-6.23 2.77,-6.23 2.77,-13.15 19.03,0.00 2.77,13.15 2.77,6.23 -17.30,6.23" fill="#A78BFA" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(203.22 458.70) rotate(13.40)"><path d="M 0 17.26 C -22.61 2.06, -24.66 -14.39, -9.86 -3.29 C -0.82 -17.26, 0.82 -17.26, 9.86 -3.29 C 24.66 -14.39, 22.61 2.06, 0 17.26 Z" fill="#C084FC" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(677.68 271.41) rotate(-2.42)"><circle cx="0" cy="0" r="14.82" fill="#22D3EE" /><circle cx="5.93" cy="-0.59" r="12.45" fill="#0B1A34" /></g>
+    <g transform="translate(601.72 405.28) rotate(0.05)"><circle cx="0" cy="0" r="17.30" fill="#A78BFA" /><circle cx="6.92" cy="-0.69" r="14.53" fill="#0B1A34" /></g>
+    <g transform="translate(135.50 264.74) rotate(-15.29)"><polygon points="0,-19.90 19.90,0 0,19.90 -19.90,0" fill="#FBBF24" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /></g>
+    <g transform="translate(290.44 395.88) rotate(19.41)"><polygon points="0,-14.89 14.89,0 0,14.89 -14.89,0" fill="#F87171" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /></g>
+    <g transform="translate(201.70 537.79) rotate(-0.03)"><circle cx="0" cy="0" r="19.33" fill="#34D399" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /><circle cx="-6.96" cy="-4.64" r="3.09" fill="#1F2937" /><circle cx="6.96" cy="-4.64" r="3.09" fill="#1F2937" /><path d="M -14.69 5.41 Q 0 13.15 14.69 5.41" fill="none" stroke="#1F2937" stroke-width="2.2" stroke-linecap="round" /></g>
+    <g transform="translate(594.23 75.85) rotate(-7.33)"><polygon points="0.00,-18.86 4.84,-6.66 17.94,-5.83 7.83,2.54 11.09,15.26 0.00,8.23 -11.09,15.26 -7.83,2.54 -17.94,-5.83 -4.84,-6.66" fill="#C084FC" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /></g>
+    <g transform="translate(677.77 130.32) rotate(15.70)"><path d="M 0 13.49 C -17.66 1.61, -19.27 -11.24, -7.71 -2.57 C -0.64 -13.49, 0.64 -13.49, 7.71 -2.57 C 19.27 -11.24, 17.66 1.61, 0 13.49 Z" fill="#22D3EE" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(597.05 333.13) rotate(20.41)"><polygon points="0.00,-16.43 4.21,-5.80 15.62,-5.08 6.82,2.22 9.66,13.29 0.00,7.17 -9.66,13.29 -6.82,2.22 -15.62,-5.08 -4.21,-5.80" fill="#F97316" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /></g>
+    <g transform="translate(524.37 271.71) rotate(7.11)"><circle cx="0" cy="0" r="20.38" fill="#F87171" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /><circle cx="-7.34" cy="-4.89" r="3.26" fill="#1F2937" /><circle cx="7.34" cy="-4.89" r="3.26" fill="#1F2937" /><path d="M -15.49 5.71 Q 0 13.86 15.49 5.71" fill="none" stroke="#1F2937" stroke-width="2.2" stroke-linecap="round" /></g>
+    <g transform="translate(211.55 262.33) rotate(6.05)"><circle cx="0" cy="0" r="15.34" fill="#C084FC" /><circle cx="6.14" cy="-0.61" r="12.89" fill="#0B1A34" /></g>
+    <g transform="translate(594.79 200.57) rotate(-7.71)"><path d="M 0 14.36 C -18.80 1.71, -20.51 -11.96, -8.20 -2.73 C -0.68 -14.36, 0.68 -14.36, 8.20 -2.73 C 20.51 -11.96, 18.80 1.71, 0 14.36 Z" fill="#F87171" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(834.28 522.81) rotate(1.62)"><polygon points="0.00,-21.76 5.58,-7.68 20.70,-6.73 9.03,2.93 12.79,17.61 0.00,9.50 -12.79,17.61 -9.03,2.93 -20.70,-6.73 -5.58,-7.68" fill="#22D3EE" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /></g>
+    <g transform="translate(365.01 137.43) rotate(-23.02)"><polygon points="0,-17.36 17.36,0 0,17.36 -17.36,0" fill="#C084FC" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /></g>
+    <g transform="translate(754.46 194.45) rotate(-17.95)"><polygon points="-17.98,-6.47 2.88,-6.47 2.88,-13.66 19.77,0.00 2.88,13.66 2.88,6.47 -17.98,6.47" fill="#F87171" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(910.06 460.06) rotate(4.34)"><circle cx="0" cy="0" r="15.43" fill="#C084FC" /><circle cx="6.17" cy="-0.62" r="12.96" fill="#0B1A34" /></g>
+    <g transform="translate(51.48 135.26) rotate(-4.81)"><polygon points="0,-16.62 16.62,0 0,16.62 -16.62,0" fill="#60A5FA" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /></g>
+    <g transform="translate(900.83 265.33) rotate(-17.66)"><path d="M 0 12.44 C -16.29 1.48, -17.77 -10.36, -7.11 -2.37 C -0.59 -12.44, 0.59 -12.44, 7.11 -2.37 C 17.77 -10.36, 16.29 1.48, 0 12.44 Z" fill="#FB7185" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(826.71 264.58) rotate(18.01)"><polygon points="-15.74,-5.67 2.52,-5.67 2.52,-11.96 17.31,0.00 2.52,11.96 2.52,5.67 -15.74,5.67" fill="#FBBF24" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(200.37 390.99) rotate(-20.64)"><path d="M 0 16.31 C -21.35 1.94, -23.30 -13.59, -9.32 -3.11 C -0.78 -16.31, 0.78 -16.31, 9.32 -3.11 C 23.30 -13.59, 21.35 1.94, 0 16.31 Z" fill="#F97316" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+  </g>
+</svg>

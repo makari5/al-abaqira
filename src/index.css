@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;800&family=Changa:wght@500;700;800&display=swap');
+
+:root {
+  font-family: 'Cairo', 'Segoe UI', Tahoma, sans-serif;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+html {
+  direction: rtl;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: #041024;
+  color: #f6f9ff;
+}
+
+h1,
+h2,
+h3 {
+  font-family: 'Changa', 'Cairo', sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}

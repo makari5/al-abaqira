@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600">
+  <defs>
+    <linearGradient id="bg47" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#1D4ED8" />
+    </linearGradient>
+    <filter id="shadow47" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="1.8" flood-color="rgba(0,0,0,0.36)" />
+    </filter>
+  </defs>
+
+  <rect width="960" height="600" fill="url(#bg47)" />
+  <rect x="24" y="24" width="912" height="552" rx="20" fill="rgba(255,255,255,0.045)" stroke="rgba(255,255,255,0.22)" />
+  <g filter="url(#shadow47)">
+    <g transform="translate(205.96 269.62) rotate(3.40)"><rect x="-17.33" y="-5.11" width="34.66" height="10.22" rx="5.11" fill="#F97316" /><rect x="-5.11" y="-17.33" width="10.22" height="34.66" rx="5.11" fill="#F97316" /></g>
+    <g transform="translate(592.24 392.71) rotate(-3.10)"><polygon points="0,-14.80 14.80,0 0,14.80 -14.80,0" fill="#A78BFA" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /></g>
+    <g transform="translate(199.92 140.76) rotate(6.98)"><circle cx="0" cy="0" r="15.47" fill="#C084FC" /><circle cx="6.19" cy="-0.62" r="12.99" fill="#0B1A34" /></g>
+    <g transform="translate(291.00 522.10) rotate(24.47)"><polygon points="0,-15.81 15.81,0 0,15.81 -15.81,0" fill="#4ADE80" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /></g>
+    <g transform="translate(443.22 526.70) rotate(4.64)"><circle cx="0" cy="0" r="18.87" fill="#F97316" /><circle cx="7.55" cy="-0.75" r="15.85" fill="#0B1A34" /></g>
+    <g transform="translate(750.83 401.26) rotate(-5.28)"><circle cx="0" cy="0" r="15.09" fill="#34D399" /><circle cx="6.04" cy="-0.60" r="12.68" fill="#0B1A34" /></g>
+    <g transform="translate(523.39 396.51) rotate(4.43)"><circle cx="0" cy="0" r="17.74" fill="#FB7185" /><circle cx="7.10" cy="-0.71" r="14.90" fill="#0B1A34" /></g>
+    <g transform="translate(290.46 77.90) rotate(10.49)"><polygon points="-19.90,-7.16 3.18,-7.16 3.18,-15.12 21.89,0.00 3.18,15.12 3.18,7.16 -19.90,7.16" fill="#4ADE80" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(837.38 274.27) rotate(2.36)"><rect x="-17.35" y="-5.11" width="34.70" height="10.23" rx="5.11" fill="#FB7185" /><rect x="-5.11" y="-17.35" width="10.23" height="34.70" rx="5.11" fill="#FB7185" /></g>
+    <g transform="translate(745.31 461.03) rotate(9.67)"><polygon points="0,-15.18 15.18,0 0,15.18 -15.18,0" fill="#F97316" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /></g>
+    <g transform="translate(368.61 464.59) rotate(12.33)"><polygon points="-17.66,-6.36 2.83,-6.36 2.83,-13.42 19.43,0.00 2.83,13.42 2.83,6.36 -17.66,6.36" fill="#C084FC" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(832.06 325.75) rotate(-3.28)"><circle cx="0" cy="0" r="16.90" fill="#FBBF24" /><circle cx="6.76" cy="-0.68" r="14.20" fill="#0B1A34" /></g>
+    <g transform="translate(281.70 138.65) rotate(-3.98)"><circle cx="0" cy="0" r="16.02" fill="#C084FC" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /><circle cx="-5.77" cy="-3.84" r="2.56" fill="#1F2937" /><circle cx="5.77" cy="-3.84" r="2.56" fill="#1F2937" /><path d="M -12.17 4.48 Q 0 10.89 12.17 4.48" fill="none" stroke="#1F2937" stroke-width="2.2" stroke-linecap="round" /></g>
+    <g transform="translate(754.31 525.08) rotate(-14.34)"><polygon points="-18.86,-6.79 3.02,-6.79 3.02,-14.34 20.75,0.00 3.02,14.34 3.02,6.79 -18.86,6.79" fill="#60A5FA" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(829.62 460.83) rotate(-9.66)"><polygon points="-20.47,-7.37 3.27,-7.37 3.27,-15.55 22.51,0.00 3.27,15.55 3.27,7.37 -20.47,7.37" fill="#22D3EE" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(597.32 271.46) rotate(-6.52)"><polygon points="0.00,-16.69 4.28,-5.89 15.87,-5.16 6.93,2.25 9.81,13.50 0.00,7.28 -9.81,13.50 -6.93,2.25 -15.87,-5.16 -4.28,-5.89" fill="#FBBF24" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /></g>
+    <g transform="translate(519.62 201.57) rotate(0.21)"><rect x="-18.99" y="-5.60" width="37.98" height="11.19" rx="5.60" fill="#4ADE80" /><rect x="-5.60" y="-18.99" width="11.19" height="37.98" rx="5.60" fill="#4ADE80" /></g>
+  </g>
+</svg>

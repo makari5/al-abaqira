@@ -1,0 +1,1607 @@
+{
+  "id": "observation-power",
+  "title": "قوة الملاحظة",
+  "description": "200 سؤال بصري بصور متنوعة (نجوم، مثلثات، وجوه، قلوب، أسهم وغيرها) مع إجابات عدّ دقيقة.",
+  "questions": [
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد النجوم؟",
+      "answer": "17",
+      "difficulty": "صعب",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-001.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 1"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المثلثات؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-002.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 2"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المربعات؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-003.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 3"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الدوائر؟",
+      "answer": "12",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-004.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 4"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد القلوب؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-005.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 5"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الوجوه المبتسمة؟",
+      "answer": "6",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-006.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 6"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأسهم؟",
+      "answer": "8",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-007.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 7"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المعينات؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-008.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 8"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد علامات الزائد؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-009.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 9"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأهلة؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-010.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 10"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد النجوم؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-011.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 11"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المثلثات؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-012.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 12"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المربعات؟",
+      "answer": "6",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-013.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 13"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الدوائر؟",
+      "answer": "6",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-014.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 14"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد القلوب؟",
+      "answer": "12",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-015.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 15"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الوجوه المبتسمة؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-016.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 16"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأسهم؟",
+      "answer": "15",
+      "difficulty": "صعب",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-017.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 17"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المعينات؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-018.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 18"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد علامات الزائد؟",
+      "answer": "9",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-019.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 19"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأهلة؟",
+      "answer": "16",
+      "difficulty": "صعب",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-020.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 20"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد النجوم؟",
+      "answer": "6",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-021.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 21"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المثلثات؟",
+      "answer": "6",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-022.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 22"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المربعات؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-023.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 23"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الدوائر؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-024.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 24"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد القلوب؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-025.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 25"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الوجوه المبتسمة؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-026.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 26"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأسهم؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-027.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 27"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المعينات؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-028.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 28"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد علامات الزائد؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-029.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 29"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأهلة؟",
+      "answer": "17",
+      "difficulty": "صعب",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-030.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 30"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد النجوم؟",
+      "answer": "6",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-031.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 31"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المثلثات؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-032.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 32"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المربعات؟",
+      "answer": "17",
+      "difficulty": "صعب",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-033.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 33"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الدوائر؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-034.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 34"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد القلوب؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-035.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 35"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الوجوه المبتسمة؟",
+      "answer": "6",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-036.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 36"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأسهم؟",
+      "answer": "16",
+      "difficulty": "صعب",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-037.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 37"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المعينات؟",
+      "answer": "9",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-038.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 38"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد علامات الزائد؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-039.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 39"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأهلة؟",
+      "answer": "8",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-040.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 40"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد النجوم؟",
+      "answer": "10",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-041.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 41"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المثلثات؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-042.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 42"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المربعات؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-043.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 43"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الدوائر؟",
+      "answer": "10",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-044.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 44"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد القلوب؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-045.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 45"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الوجوه المبتسمة؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-046.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 46"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأسهم؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-047.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 47"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المعينات؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-048.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 48"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد علامات الزائد؟",
+      "answer": "9",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-049.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 49"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأهلة؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-050.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 50"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد النجوم؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-051.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 51"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المثلثات؟",
+      "answer": "6",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-052.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 52"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المربعات؟",
+      "answer": "15",
+      "difficulty": "صعب",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-053.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 53"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الدوائر؟",
+      "answer": "11",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-054.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 54"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد القلوب؟",
+      "answer": "6",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-055.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 55"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الوجوه المبتسمة؟",
+      "answer": "15",
+      "difficulty": "صعب",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-056.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 56"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأسهم؟",
+      "answer": "11",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-057.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 57"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المعينات؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-058.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 58"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد علامات الزائد؟",
+      "answer": "17",
+      "difficulty": "صعب",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-059.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 59"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأهلة؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-060.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 60"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد النجوم؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-061.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 61"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المثلثات؟",
+      "answer": "9",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-062.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 62"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المربعات؟",
+      "answer": "12",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-063.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 63"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الدوائر؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-064.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 64"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد القلوب؟",
+      "answer": "17",
+      "difficulty": "صعب",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-065.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 65"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الوجوه المبتسمة؟",
+      "answer": "10",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-066.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 66"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأسهم؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-067.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 67"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المعينات؟",
+      "answer": "8",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-068.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 68"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد علامات الزائد؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-069.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 69"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأهلة؟",
+      "answer": "10",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-070.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 70"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد النجوم؟",
+      "answer": "8",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-071.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 71"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المثلثات؟",
+      "answer": "8",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-072.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 72"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المربعات؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-073.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 73"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الدوائر؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-074.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 74"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد القلوب؟",
+      "answer": "8",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-075.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 75"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الوجوه المبتسمة؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-076.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 76"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأسهم؟",
+      "answer": "6",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-077.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 77"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المعينات؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-078.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 78"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد علامات الزائد؟",
+      "answer": "11",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-079.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 79"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأهلة؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-080.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 80"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد النجوم؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-081.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 81"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المثلثات؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-082.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 82"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المربعات؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-083.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 83"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الدوائر؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-084.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 84"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد القلوب؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-085.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 85"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الوجوه المبتسمة؟",
+      "answer": "8",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-086.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 86"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأسهم؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-087.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 87"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المعينات؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-088.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 88"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد علامات الزائد؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-089.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 89"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأهلة؟",
+      "answer": "13",
+      "difficulty": "صعب",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-090.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 90"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد النجوم؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-091.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 91"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المثلثات؟",
+      "answer": "6",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-092.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 92"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المربعات؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-093.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 93"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الدوائر؟",
+      "answer": "10",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-094.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 94"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد القلوب؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-095.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 95"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الوجوه المبتسمة؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-096.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 96"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأسهم؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-097.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 97"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المعينات؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-098.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 98"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد علامات الزائد؟",
+      "answer": "8",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-099.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 99"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأهلة؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-100.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 100"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد النجوم؟",
+      "answer": "12",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-101.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 101"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المثلثات؟",
+      "answer": "9",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-102.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 102"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المربعات؟",
+      "answer": "9",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-103.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 103"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الدوائر؟",
+      "answer": "10",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-104.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 104"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد القلوب؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-105.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 105"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الوجوه المبتسمة؟",
+      "answer": "17",
+      "difficulty": "صعب",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-106.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 106"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأسهم؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-107.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 107"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المعينات؟",
+      "answer": "6",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-108.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 108"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد علامات الزائد؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-109.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 109"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأهلة؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-110.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 110"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد النجوم؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-111.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 111"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المثلثات؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-112.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 112"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المربعات؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-113.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 113"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الدوائر؟",
+      "answer": "12",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-114.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 114"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد القلوب؟",
+      "answer": "9",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-115.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 115"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الوجوه المبتسمة؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-116.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 116"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأسهم؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-117.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 117"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المعينات؟",
+      "answer": "9",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-118.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 118"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد علامات الزائد؟",
+      "answer": "9",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-119.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 119"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأهلة؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-120.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 120"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد النجوم؟",
+      "answer": "10",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-121.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 121"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المثلثات؟",
+      "answer": "10",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-122.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 122"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المربعات؟",
+      "answer": "9",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-123.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 123"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الدوائر؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-124.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 124"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد القلوب؟",
+      "answer": "16",
+      "difficulty": "صعب",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-125.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 125"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الوجوه المبتسمة؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-126.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 126"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأسهم؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-127.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 127"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المعينات؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-128.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 128"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد علامات الزائد؟",
+      "answer": "17",
+      "difficulty": "صعب",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-129.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 129"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأهلة؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-130.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 130"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد النجوم؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-131.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 131"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المثلثات؟",
+      "answer": "15",
+      "difficulty": "صعب",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-132.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 132"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المربعات؟",
+      "answer": "11",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-133.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 133"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الدوائر؟",
+      "answer": "8",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-134.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 134"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد القلوب؟",
+      "answer": "16",
+      "difficulty": "صعب",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-135.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 135"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الوجوه المبتسمة؟",
+      "answer": "11",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-136.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 136"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأسهم؟",
+      "answer": "15",
+      "difficulty": "صعب",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-137.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 137"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المعينات؟",
+      "answer": "6",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-138.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 138"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد علامات الزائد؟",
+      "answer": "9",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-139.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 139"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأهلة؟",
+      "answer": "12",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-140.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 140"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد النجوم؟",
+      "answer": "9",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-141.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 141"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المثلثات؟",
+      "answer": "8",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-142.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 142"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المربعات؟",
+      "answer": "10",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-143.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 143"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الدوائر؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-144.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 144"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد القلوب؟",
+      "answer": "11",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-145.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 145"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الوجوه المبتسمة؟",
+      "answer": "8",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-146.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 146"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأسهم؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-147.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 147"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المعينات؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-148.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 148"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد علامات الزائد؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-149.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 149"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأهلة؟",
+      "answer": "6",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-150.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 150"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد النجوم؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-151.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 151"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المثلثات؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-152.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 152"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المربعات؟",
+      "answer": "6",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-153.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 153"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الدوائر؟",
+      "answer": "6",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-154.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 154"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد القلوب؟",
+      "answer": "12",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-155.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 155"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الوجوه المبتسمة؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-156.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 156"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأسهم؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-157.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 157"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المعينات؟",
+      "answer": "11",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-158.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 158"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد علامات الزائد؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-159.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 159"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأهلة؟",
+      "answer": "12",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-160.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 160"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد النجوم؟",
+      "answer": "18",
+      "difficulty": "صعب",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-161.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 161"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المثلثات؟",
+      "answer": "6",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-162.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 162"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المربعات؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-163.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 163"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الدوائر؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-164.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 164"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد القلوب؟",
+      "answer": "12",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-165.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 165"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الوجوه المبتسمة؟",
+      "answer": "17",
+      "difficulty": "صعب",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-166.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 166"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأسهم؟",
+      "answer": "6",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-167.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 167"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المعينات؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-168.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 168"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد علامات الزائد؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-169.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 169"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأهلة؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-170.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 170"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد النجوم؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-171.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 171"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المثلثات؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-172.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 172"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المربعات؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-173.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 173"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الدوائر؟",
+      "answer": "11",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-174.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 174"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد القلوب؟",
+      "answer": "15",
+      "difficulty": "صعب",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-175.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 175"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الوجوه المبتسمة؟",
+      "answer": "6",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-176.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 176"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأسهم؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-177.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 177"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المعينات؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-178.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 178"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد علامات الزائد؟",
+      "answer": "6",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-179.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 179"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأهلة؟",
+      "answer": "6",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-180.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 180"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد النجوم؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-181.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 181"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المثلثات؟",
+      "answer": "11",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-182.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 182"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المربعات؟",
+      "answer": "7",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-183.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 183"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الدوائر؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-184.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 184"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد القلوب؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-185.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 185"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الوجوه المبتسمة؟",
+      "answer": "12",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-186.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 186"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأسهم؟",
+      "answer": "8",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-187.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 187"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المعينات؟",
+      "answer": "9",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-188.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 188"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد علامات الزائد؟",
+      "answer": "9",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-189.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 189"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأهلة؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-190.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 190"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد النجوم؟",
+      "answer": "8",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-191.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 191"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المثلثات؟",
+      "answer": "8",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-192.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 192"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المربعات؟",
+      "answer": "9",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-193.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 193"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الدوائر؟",
+      "answer": "6",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-194.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 194"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد القلوب؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-195.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 195"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الوجوه المبتسمة؟",
+      "answer": "10",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-196.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 196"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأسهم؟",
+      "answer": "8",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-197.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 197"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد المعينات؟",
+      "answer": "12",
+      "difficulty": "متوسط",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-198.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 198"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد علامات الزائد؟",
+      "answer": "5",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-199.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 199"
+    },
+    {
+      "question": "انظر إلى الصورة جيدًا: كم عدد الأهلة؟",
+      "answer": "4",
+      "difficulty": "سهل",
+      "subtopic": "عدّ العناصر المتنوعة",
+      "image": "/observation-images/observation-200.svg",
+      "imageAlt": "صورة قوة الملاحظة رقم 200"
+    }
+  ]
+}

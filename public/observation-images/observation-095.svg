@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600">
+  <defs>
+    <linearGradient id="bg95" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#1D4ED8" />
+    </linearGradient>
+    <filter id="shadow95" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="1.8" flood-color="rgba(0,0,0,0.36)" />
+    </filter>
+  </defs>
+
+  <rect width="960" height="600" fill="url(#bg95)" />
+  <rect x="24" y="24" width="912" height="552" rx="20" fill="rgba(255,255,255,0.045)" stroke="rgba(255,255,255,0.22)" />
+  <g filter="url(#shadow95)">
+    <g transform="translate(830.03 528.83) rotate(-6.90)"><circle cx="0" cy="0" r="15.93" fill="#A78BFA" /><circle cx="6.37" cy="-0.64" r="13.38" fill="#0B1A34" /></g>
+    <g transform="translate(135.29 269.95) rotate(-18.81)"><rect x="-13.68" y="-4.03" width="27.36" height="8.06" rx="4.03" fill="#F87171" /><rect x="-4.03" y="-13.68" width="8.06" height="27.36" rx="4.03" fill="#F87171" /></g>
+    <g transform="translate(278.13 396.25) rotate(27.76)"><rect x="-18.39" y="-5.42" width="36.77" height="10.84" rx="5.42" fill="#FBBF24" /><rect x="-5.42" y="-18.39" width="10.84" height="36.77" rx="5.42" fill="#FBBF24" /></g>
+    <g transform="translate(209.54 76.05) rotate(-6.95)"><circle cx="0" cy="0" r="16.51" fill="#22D3EE" /><circle cx="6.61" cy="-0.66" r="13.87" fill="#0B1A34" /></g>
+    <g transform="translate(292.86 142.47) rotate(-7.13)"><rect x="-18.51" y="-5.46" width="37.02" height="10.91" rx="5.46" fill="#FB7185" /><rect x="-5.46" y="-18.51" width="10.91" height="37.02" rx="5.46" fill="#FB7185" /></g>
+    <g transform="translate(291.99 329.87) rotate(21.61)"><rect x="-14.48" y="-4.27" width="28.96" height="8.54" rx="4.27" fill="#22D3EE" /><rect x="-4.27" y="-14.48" width="8.54" height="28.96" rx="4.27" fill="#22D3EE" /></g>
+    <g transform="translate(54.37 201.90) rotate(2.26)"><circle cx="0" cy="0" r="19.31" fill="#60A5FA" /><circle cx="7.72" cy="-0.77" r="16.22" fill="#0B1A34" /></g>
+    <g transform="translate(595.63 332.45) rotate(-8.21)"><rect x="-13.85" y="-4.08" width="27.69" height="8.16" rx="4.08" fill="#60A5FA" /><rect x="-4.08" y="-13.85" width="8.16" height="27.69" rx="4.08" fill="#60A5FA" /></g>
+    <g transform="translate(753.07 403.60) rotate(-6.51)"><circle cx="0" cy="0" r="19.12" fill="#F87171" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /><circle cx="-6.88" cy="-4.59" r="3.06" fill="#1F2937" /><circle cx="6.88" cy="-4.59" r="3.06" fill="#1F2937" /><path d="M -14.53 5.35 Q 0 13.00 14.53 5.35" fill="none" stroke="#1F2937" stroke-width="2.2" stroke-linecap="round" /></g>
+    <g transform="translate(523.51 522.44) rotate(-22.53)"><path d="M 0 15.60 C -20.43 1.86, -22.29 -13.00, -8.91 -2.97 C -0.74 -15.60, 0.74 -15.60, 8.91 -2.97 C 22.29 -13.00, 20.43 1.86, 0 15.60 Z" fill="#C084FC" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(440.87 465.88) rotate(7.46)"><circle cx="0" cy="0" r="16.24" fill="#60A5FA" /><circle cx="6.50" cy="-0.65" r="13.64" fill="#0B1A34" /></g>
+    <g transform="translate(205.15 199.95) rotate(14.66)"><path d="M 0 12.31 C -16.13 1.47, -17.59 -10.26, -7.04 -2.35 C -0.59 -12.31, 0.59 -12.31, 7.04 -2.35 C 17.59 -10.26, 16.13 1.47, 0 12.31 Z" fill="#A78BFA" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(441.74 198.84) rotate(2.54)"><circle cx="0" cy="0" r="16.15" fill="#C084FC" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /><circle cx="-5.81" cy="-3.88" r="2.58" fill="#1F2937" /><circle cx="5.81" cy="-3.88" r="2.58" fill="#1F2937" /><path d="M -12.27 4.52 Q 0 10.98 12.27 4.52" fill="none" stroke="#1F2937" stroke-width="2.2" stroke-linecap="round" /></g>
+    <g transform="translate(288.47 461.60) rotate(3.22)"><circle cx="0" cy="0" r="16.60" fill="#C084FC" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /><circle cx="-5.98" cy="-3.98" r="2.66" fill="#1F2937" /><circle cx="5.98" cy="-3.98" r="2.66" fill="#1F2937" /><path d="M -12.62 4.65 Q 0 11.29 12.62 4.65" fill="none" stroke="#1F2937" stroke-width="2.2" stroke-linecap="round" /></g>
+    <g transform="translate(758.27 334.06) rotate(-12.34)"><path d="M 0 12.88 C -16.87 1.53, -18.40 -10.73, -7.36 -2.45 C -0.61 -12.88, 0.61 -12.88, 7.36 -2.45 C 18.40 -10.73, 16.87 1.53, 0 12.88 Z" fill="#22D3EE" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(440.17 334.51) rotate(-0.27)"><rect x="-16.60" y="-4.89" width="33.19" height="9.78" rx="4.89" fill="#F87171" /><rect x="-4.89" y="-16.60" width="9.78" height="33.19" rx="4.89" fill="#F87171" /></g>
+    <g transform="translate(128.04 393.24) rotate(2.70)"><rect x="-18.66" y="-5.50" width="37.33" height="11.00" rx="5.50" fill="#34D399" /><rect x="-5.50" y="-18.66" width="11.00" height="37.33" rx="5.50" fill="#34D399" /></g>
+    <g transform="translate(593.24 138.72) rotate(-0.41)"><path d="M 0 15.15 C -19.83 1.80, -21.64 -12.62, -8.65 -2.88 C -0.72 -15.15, 0.72 -15.15, 8.65 -2.88 C 21.64 -12.62, 19.83 1.80, 0 15.15 Z" fill="#FBBF24" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+  </g>
+</svg>

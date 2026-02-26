@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="600" viewBox="0 0 960 600">
+  <defs>
+    <linearGradient id="bg77" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#1D4ED8" />
+    </linearGradient>
+    <filter id="shadow77" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="1.8" flood-color="rgba(0,0,0,0.36)" />
+    </filter>
+  </defs>
+
+  <rect width="960" height="600" fill="url(#bg77)" />
+  <rect x="24" y="24" width="912" height="552" rx="20" fill="rgba(255,255,255,0.045)" stroke="rgba(255,255,255,0.22)" />
+  <g filter="url(#shadow77)">
+    <g transform="translate(214.33 334.55) rotate(1.46)"><polygon points="-14.28,-5.14 2.28,-5.14 2.28,-10.85 15.70,0.00 2.28,10.85 2.28,5.14 -14.28,5.14" fill="#FBBF24" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(753.46 326.12) rotate(-21.45)"><circle cx="0" cy="0" r="19.43" fill="#60A5FA" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /></g>
+    <g transform="translate(44.65 523.09) rotate(-1.32)"><path d="M 0 16.27 C -21.31 1.94, -23.25 -13.56, -9.30 -3.10 C -0.77 -16.27, 0.77 -16.27, 9.30 -3.10 C 23.25 -13.56, 21.31 1.94, 0 16.27 Z" fill="#F87171" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(436.09 129.61) rotate(2.64)"><path d="M 0 12.51 C -16.38 1.49, -17.87 -10.42, -7.15 -2.38 C -0.60 -12.51, 0.60 -12.51, 7.15 -2.38 C 17.87 -10.42, 16.38 1.49, 0 12.51 Z" fill="#FBBF24" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(514.97 133.61) rotate(15.41)"><polygon points="0.00,-17.31 4.44,-6.11 16.46,-5.35 7.18,2.33 10.17,14.00 0.00,7.55 -10.17,14.00 -7.18,2.33 -16.46,-5.35 -4.44,-6.11" fill="#34D399" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /></g>
+    <g transform="translate(599.35 196.89) rotate(1.49)"><polygon points="0.00,-15.95 4.09,-5.63 15.17,-4.93 6.62,2.15 9.38,12.91 0.00,6.96 -9.38,12.91 -6.62,2.15 -15.17,-4.93 -4.09,-5.63" fill="#FBBF24" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /></g>
+    <g transform="translate(215.07 199.39) rotate(25.67)"><polygon points="-14.25,-5.13 2.28,-5.13 2.28,-10.83 15.68,0.00 2.28,10.83 2.28,5.13 -14.25,5.13" fill="#C084FC" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(516.09 268.99) rotate(2.09)"><circle cx="0" cy="0" r="20.08" fill="#FBBF24" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /></g>
+    <g transform="translate(366.66 196.07) rotate(21.69)"><path d="M 0 14.94 C -19.56 1.78, -21.34 -12.45, -8.54 -2.85 C -0.71 -14.94, 0.71 -14.94, 8.54 -2.85 C 21.34 -12.45, 19.56 1.78, 0 14.94 Z" fill="#A78BFA" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(282.76 401.32) rotate(-6.57)"><polygon points="-20.36,-7.33 3.26,-7.33 3.26,-15.47 22.39,0.00 3.26,15.47 3.26,7.33 -20.36,7.33" fill="#C084FC" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(745.63 200.59) rotate(-19.98)"><path d="M 0 15.03 C -19.69 1.79, -21.48 -12.53, -8.59 -2.86 C -0.72 -15.03, 0.72 -15.03, 8.59 -2.86 C 21.48 -12.53, 19.69 1.79, 0 15.03 Z" fill="#A78BFA" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(200.95 391.17) rotate(-16.79)"><circle cx="0" cy="0" r="18.21" fill="#22D3EE" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /></g>
+    <g transform="translate(913.77 195.55) rotate(27.75)"><polygon points="-20.23,-7.28 3.24,-7.28 3.24,-15.37 22.25,0.00 3.24,15.37 3.24,7.28 -20.23,7.28" fill="#FBBF24" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(826.19 134.81) rotate(4.81)"><polygon points="0.00,-21.41 5.49,-7.56 20.36,-6.61 8.88,2.89 12.58,17.32 0.00,9.34 -12.58,17.32 -8.88,2.89 -20.36,-6.61 -5.49,-7.56" fill="#FBBF24" stroke="rgba(255,255,255,0.55)" stroke-width="1.4" /></g>
+    <g transform="translate(122.35 135.95) rotate(-15.94)"><polygon points="-15.76,-5.67 2.52,-5.67 2.52,-11.98 17.33,0.00 2.52,11.98 2.52,5.67 -15.76,5.67" fill="#FBBF24" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+    <g transform="translate(57.57 466.25) rotate(22.88)"><polygon points="-18.34,-6.60 2.94,-6.60 2.94,-13.94 20.18,0.00 2.94,13.94 2.94,6.60 -18.34,6.60" fill="#22D3EE" stroke="rgba(255,255,255,0.55)" stroke-width="1.2" /></g>
+  </g>
+</svg>

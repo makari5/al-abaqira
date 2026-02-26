@@ -1,0 +1,1407 @@
+{
+  "id": "science",
+  "title": "فقرة العلم",
+  "description": "200 سؤال من مواد فقرة العلم (الجغرافيا، التاريخ، العلوم، اللغة الإنجليزية) موزعة على المراحل الدراسية.",
+  "questions": [
+    {
+      "question": "ما موقع مصر بالنسبة لقارة أفريقيا؟",
+      "answer": "تقع في الركن الشمالي الشرقي من أفريقيا.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما البحر الذي يحد مصر شمالًا؟",
+      "answer": "البحر المتوسط.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما البحر الذي يحد مصر شرقًا؟",
+      "answer": "البحر الأحمر.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما عاصمة مصر؟",
+      "answer": "القاهرة.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما النهر الرئيسي في مصر؟",
+      "answer": "نهر النيل.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "أين تقع دلتا النيل؟",
+      "answer": "في شمال مصر عند مصب النهر.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ماذا يسمى الجزء الجنوبي من مصر؟",
+      "answer": "صعيد مصر.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "من أي جهة تشرق الشمس؟",
+      "answer": "من الشرق.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "من أي جهة تغرب الشمس؟",
+      "answer": "من الغرب.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "كم عدد قارات العالم؟",
+      "answer": "سبع قارات.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما أكبر قارات العالم مساحة؟",
+      "answer": "آسيا.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما أكبر محيط في العالم؟",
+      "answer": "المحيط الهادئ.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ماذا تسمى الرموز والألوان المفسرة في الخريطة؟",
+      "answer": "مفتاح الخريطة.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما الجهاز المستخدم لقياس درجة الحرارة؟",
+      "answer": "الترمومتر.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "اذكر محافظة مصرية ساحلية على البحر المتوسط.",
+      "answer": "الإسكندرية.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "أيهما أكبر مساحة في مصر: الصحراء الغربية أم الصحراء الشرقية؟",
+      "answer": "الصحراء الغربية.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ماذا تربط قناة السويس؟",
+      "answer": "تربط البحر المتوسط بالبحر الأحمر.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "أين تقع بحيرة ناصر؟",
+      "answer": "خلف السد العالي في أسوان.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما المحصول الذي يكثر في دلتا النيل؟",
+      "answer": "الأرز.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما الصفة العامة لمناخ الصحراء؟",
+      "answer": "مناخ حار جاف.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما قيمة دائرة عرض خط الاستواء؟",
+      "answer": "صفر درجة عرض.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما اسم خط الطول الرئيسي (0°)؟",
+      "answer": "خط جرينتش.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "كيف يتغير التوقيت كلما اتجهنا شرق خط جرينتش؟",
+      "answer": "يزيد.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما تعريف المناخ؟",
+      "answer": "متوسط حالة الجو لفترة زمنية طويلة.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما تعريف الطقس؟",
+      "answer": "حالة الجو في مكان وزمان محددين.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما القانون البسيط للكثافة السكانية؟",
+      "answer": "عدد السكان ÷ المساحة.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "أين تتركز الكثافة السكانية الكبرى في مصر؟",
+      "answer": "في وادي النيل والدلتا.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "أين يقع منخفض القطارة؟",
+      "answer": "في الصحراء الغربية.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "أين تقع شبه جزيرة سيناء بالنسبة لمصر؟",
+      "answer": "في الشمال الشرقي.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "في أي محافظة يقع السد العالي؟",
+      "answer": "أسوان.",
+      "difficulty": "سهل",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "اذكر مثالًا لمصدر طاقة متجددة في مصر.",
+      "answer": "الطاقة الشمسية.",
+      "difficulty": "متوسط",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما المقصود بالتصحر؟",
+      "answer": "تدهور خصوبة التربة وتحولها لأراضٍ أقل إنتاجًا.",
+      "difficulty": "متوسط",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "على أي سواحل مصر تسقط أمطار شتوية أكثر؟",
+      "answer": "على الساحل الشمالي.",
+      "difficulty": "متوسط",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما المقصود بمقياس الرسم؟",
+      "answer": "النسبة بين المسافة على الخريطة ونظيرتها على الطبيعة.",
+      "difficulty": "متوسط",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما المقصود بالهجرة الداخلية؟",
+      "answer": "انتقال السكان من منطقة إلى أخرى داخل الدولة.",
+      "difficulty": "متوسط",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما المقصود بالتحضر؟",
+      "answer": "زيادة نسبة السكان المقيمين في المدن.",
+      "difficulty": "متوسط",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "لماذا تكون حرارة السواحل أقل من الداخل غالبًا؟",
+      "answer": "لتأثير البحر الملطف للحرارة.",
+      "difficulty": "متوسط",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما أعلى قمة جبلية في مصر؟",
+      "answer": "جبل سانت كاترين.",
+      "difficulty": "متوسط",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما المضيق الذي يربط البحر الأحمر بخليج عدن؟",
+      "answer": "مضيق باب المندب.",
+      "difficulty": "متوسط",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما المقصود بالتنمية المستدامة؟",
+      "answer": "تلبية احتياجات الحاضر دون الإضرار بحقوق الأجيال القادمة.",
+      "difficulty": "متوسط",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما المجال الذي يدرس أشكال السطح والمناخ والمياه؟",
+      "answer": "الجغرافيا الطبيعية.",
+      "difficulty": "متوسط",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما المجال الذي يدرس السكان والأنشطة الاقتصادية؟",
+      "answer": "الجغرافيا البشرية.",
+      "difficulty": "متوسط",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ماذا تعني GIS في الجغرافيا؟",
+      "answer": "نظم المعلومات الجغرافية.",
+      "difficulty": "متوسط",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما المقصود بالاستشعار عن بعد؟",
+      "answer": "جمع معلومات عن سطح الأرض عبر الأقمار الصناعية دون تلامس مباشر.",
+      "difficulty": "متوسط",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما المقصود بالانفجار السكاني؟",
+      "answer": "زيادة سريعة وكبيرة في عدد السكان تفوق الموارد والخدمات.",
+      "difficulty": "متوسط",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما المقصود بالبصمة الكربونية؟",
+      "answer": "إجمالي انبعاثات الغازات الدفيئة الناتجة عن نشاط ما.",
+      "difficulty": "صعب",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما المقصود بالأمن المائي؟",
+      "answer": "ضمان توافر مياه كافية وآمنة للاستخدامات المختلفة.",
+      "difficulty": "صعب",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "لماذا تعد قناة السويس ممرًا عالميًا مهمًا؟",
+      "answer": "لأنها تختصر زمن ومسافة التجارة بين آسيا وأوروبا.",
+      "difficulty": "صعب",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما المقصود بالموقع الفلكي للدولة؟",
+      "answer": "موقعها بالنسبة لدوائر العرض وخطوط الطول.",
+      "difficulty": "صعب",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما المقصود بالجزر الحرارية الحضرية؟",
+      "answer": "ارتفاع حرارة المدن عن المناطق الريفية المحيطة.",
+      "difficulty": "صعب",
+      "subtopic": "الجغرافيا",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "من وحد القطرين في مصر القديمة؟",
+      "answer": "الملك نارمر (مينا).",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما أول عاصمة للدولة المصرية الموحدة قديمًا؟",
+      "answer": "منف (ممفيس).",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما اسم الكتابة المصرية القديمة الشهيرة؟",
+      "answer": "الكتابة الهيروغليفية.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما أشهر أثر في الجيزة على هيئة جسم أسد ورأس إنسان؟",
+      "answer": "أبو الهول.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "أين بنيت الأهرامات الكبرى؟",
+      "answer": "في الجيزة.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "من أشهر ملوك الدولة الحديثة وباني معابد كبرى؟",
+      "answer": "رمسيس الثاني.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "من أشهر ملكات مصر القديمة؟",
+      "answer": "حتشبسوت.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "لماذا كان نهر النيل مهمًا للمصريين القدماء؟",
+      "answer": "لأنه وفر الماء والطمي للزراعة.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما المادة التي استخدمها المصري القديم في الكتابة؟",
+      "answer": "ورق البردي.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما العملية التي حفظ بها المصري القديم أجساد الموتى؟",
+      "answer": "التحنيط.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما معنى كلمة فرعون؟",
+      "answer": "لقب ملك مصر القديمة.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما الحرفة الأساسية لغالبية سكان مصر القديمة؟",
+      "answer": "الزراعة.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما اسم المقبرة الملكية الضخمة في الأسرة الرابعة؟",
+      "answer": "الهرم.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما اسم الإله الذي ارتبط بالشمس في مصر القديمة؟",
+      "answer": "رع.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما الهدف من بناء المعابد في مصر القديمة؟",
+      "answer": "العبادة وإقامة الشعائر الدينية.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما النهر الذي قامت على ضفافه الحضارة المصرية؟",
+      "answer": "نهر النيل.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما العيد المرتبط بفيضان النيل في التراث المصري؟",
+      "answer": "وفاء النيل.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما الوظيفة الأساسية للكهنة في مصر القديمة؟",
+      "answer": "إقامة الشعائر الدينية في المعابد.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "لماذا تعد الحضارة المصرية من أقدم الحضارات؟",
+      "answer": "لقدمتها واستمرار آثارها المكتوبة والمعمارية.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما اسم المنطقة التي تضم مقابر ملوك الدولة الحديثة؟",
+      "answer": "وادي الملوك.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "في أي سنة دخل الإسكندر الأكبر مصر؟",
+      "answer": "332 ق.م.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "من كانت آخر ملكة من الأسرة البطلمية؟",
+      "answer": "كليوباترا السابعة.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "في أي سنة أصبحت مصر ولاية رومانية؟",
+      "answer": "30 ق.م.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "على يد من دخلت المسيحية مصر؟",
+      "answer": "على يد القديس مرقس الرسول.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "في أي سنة تم الفتح العربي لمصر؟",
+      "answer": "641م.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "من قائد الفتح العربي لمصر؟",
+      "answer": "عمرو بن العاص.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "في أي سنة تأسست مدينة القاهرة الفاطمية؟",
+      "answer": "969م.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "من أنهى الدولة الفاطمية وأسس الدولة الأيوبية في مصر؟",
+      "answer": "صلاح الدين الأيوبي.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "في أي معركة انتصر المماليك على المغول؟",
+      "answer": "عين جالوت.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "في أي سنة دخل العثمانيون مصر؟",
+      "answer": "1517م.",
+      "difficulty": "سهل",
+      "subtopic": "التاريخ",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "في أي سنة بدأت الحملة الفرنسية على مصر؟",
+      "answer": "1798م.",
+      "difficulty": "متوسط",
+      "subtopic": "التاريخ",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "من قاد الحملة الفرنسية على مصر؟",
+      "answer": "نابليون بونابرت.",
+      "difficulty": "متوسط",
+      "subtopic": "التاريخ",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "في أي سنة تولى محمد علي حكم مصر؟",
+      "answer": "1805م.",
+      "difficulty": "متوسط",
+      "subtopic": "التاريخ",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "في أي سنة افتتحت قناة السويس؟",
+      "answer": "1869م.",
+      "difficulty": "متوسط",
+      "subtopic": "التاريخ",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "متى بدأت الثورة العرابية؟",
+      "answer": "1881م.",
+      "difficulty": "متوسط",
+      "subtopic": "التاريخ",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "متى وقع الاحتلال البريطاني لمصر؟",
+      "answer": "1882م.",
+      "difficulty": "متوسط",
+      "subtopic": "التاريخ",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "من أبرز قادة ثورة 1919؟",
+      "answer": "سعد زغلول.",
+      "difficulty": "متوسط",
+      "subtopic": "التاريخ",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "في أي سنة أعلن استقلال مصر الشكلي؟",
+      "answer": "1922م.",
+      "difficulty": "متوسط",
+      "subtopic": "التاريخ",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "متى قامت ثورة يوليو؟",
+      "answer": "1952م.",
+      "difficulty": "متوسط",
+      "subtopic": "التاريخ",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "من قادة حركة الضباط الأحرار؟",
+      "answer": "جمال عبد الناصر ومحمد نجيب.",
+      "difficulty": "متوسط",
+      "subtopic": "التاريخ",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "في أي سنة تم تأميم قناة السويس؟",
+      "answer": "1956م.",
+      "difficulty": "متوسط",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما سبب العدوان الثلاثي على مصر عام 1956؟",
+      "answer": "قرار تأميم قناة السويس.",
+      "difficulty": "متوسط",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما المقصود بحرب الاستنزاف؟",
+      "answer": "عمليات عسكرية بين مصر وإسرائيل من 1968 إلى 1970.",
+      "difficulty": "متوسط",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "في أي سنة وقعت نكسة يونيو؟",
+      "answer": "1967م.",
+      "difficulty": "متوسط",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "في أي سنة تحقق نصر أكتوبر؟",
+      "answer": "1973م.",
+      "difficulty": "متوسط",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "في أي سنة عاد كامل سيناء بالتحكيم الدولي في قضية طابا؟",
+      "answer": "1989م.",
+      "difficulty": "صعب",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما المقصود بالدولة الحديثة تاريخيًا؟",
+      "answer": "دولة تقوم على مؤسسات وقانون ومواطنة.",
+      "difficulty": "صعب",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما أهمية دستور 1923 في تاريخ مصر؟",
+      "answer": "أرسى حياة نيابية ودستورية حديثة.",
+      "difficulty": "صعب",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما الحدث السياسي البارز في 25 يناير 2011؟",
+      "answer": "قيام ثورة شعبية في مصر.",
+      "difficulty": "صعب",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما الحدث السياسي البارز في 30 يونيو 2013؟",
+      "answer": "خروج مظاهرات واسعة أدت لتغيير الحكم.",
+      "difficulty": "صعب",
+      "subtopic": "التاريخ",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما أصغر وحدة بنائية في جسم الكائن الحي؟",
+      "answer": "الخلية.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما حالات المادة الأساسية؟",
+      "answer": "صلبة وسائلة وغازية.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما اسم تحول المادة من صلب إلى سائل؟",
+      "answer": "الانصهار.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما اسم تحول المادة من سائل إلى غاز؟",
+      "answer": "التبخر.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما اسم تحول المادة من غاز إلى سائل؟",
+      "answer": "التكاثف.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما الغاز الذي تحتاجه النباتات للبناء الضوئي؟",
+      "answer": "ثاني أكسيد الكربون.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما الغاز الذي تطلقه النباتات في البناء الضوئي؟",
+      "answer": "الأكسجين.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما العضو الذي يضخ الدم في جسم الإنسان؟",
+      "answer": "القلب.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما العضو المسؤول عن تبادل الغازات في الجهاز التنفسي؟",
+      "answer": "الرئتان.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما أقرب كوكب إلى الشمس؟",
+      "answer": "عطارد.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما الزمن الذي تستغرقه الأرض لتدور حول نفسها؟",
+      "answer": "24 ساعة تقريبًا.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما الزمن الذي تستغرقه الأرض لتدور حول الشمس؟",
+      "answer": "365 يومًا وربع اليوم تقريبًا.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما القوة التي تجعل الأجسام تسقط نحو الأرض؟",
+      "answer": "الجاذبية.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما المعادن التي يجذبها المغناطيس بقوة؟",
+      "answer": "الحديد والنيكل والكوبالت.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما مثال لآلة بسيطة تستخدم لرفع الأثقال؟",
+      "answer": "الرافعة.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما الشرط الأساسي لمرور التيار في دائرة كهربائية؟",
+      "answer": "أن تكون الدائرة مغلقة.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما مصدر الطاقة الشائع في الدائرة الكهربائية البسيطة؟",
+      "answer": "البطارية.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "هل ينتقل الصوت في الفراغ؟",
+      "answer": "لا، لا ينتقل الصوت في الفراغ.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "اذكر مثالًا لمصدر طاقة متجددة.",
+      "answer": "الطاقة الشمسية.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما مراحل دورة الماء في الطبيعة؟",
+      "answer": "تبخر ثم تكاثف ثم هطول.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "مم تتكون الذرة؟",
+      "answer": "من نواة وإلكترونات تدور حولها.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ماذا يمثل العدد الذري للعنصر؟",
+      "answer": "عدد البروتونات في النواة.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "على أي أساس يرتب الجدول الدوري الحديث؟",
+      "answer": "على أساس العدد الذري.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما الفرق بين العنصر والمركب؟",
+      "answer": "العنصر نوع واحد من الذرات، والمركب اتحاد عنصرين أو أكثر كيميائيًا.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ماذا تفعل الأحماض بورقة تباع الشمس الزرقاء؟",
+      "answer": "تحولها إلى اللون الأحمر.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ماذا تفعل القلويات بورقة تباع الشمس الحمراء؟",
+      "answer": "تحولها إلى اللون الأزرق.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما قيمة pH للمحلول المتعادل؟",
+      "answer": "7.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما العملية التي تحصل بها الخلية على الطاقة من الغذاء؟",
+      "answer": "التنفس الخلوي.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ماذا ينتج عن عملية الانقسام المتساوي؟",
+      "answer": "خليتان متماثلتان.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما قانون الكثافة؟",
+      "answer": "الكثافة = الكتلة ÷ الحجم.",
+      "difficulty": "سهل",
+      "subtopic": "العلوم",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما قانون السرعة؟",
+      "answer": "السرعة = المسافة ÷ الزمن.",
+      "difficulty": "متوسط",
+      "subtopic": "العلوم",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما وحدة قياس شدة التيار الكهربائي؟",
+      "answer": "الأمبير.",
+      "difficulty": "متوسط",
+      "subtopic": "العلوم",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما وحدة قياس فرق الجهد الكهربائي؟",
+      "answer": "الفولت.",
+      "difficulty": "متوسط",
+      "subtopic": "العلوم",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "كيف يتوزع التيار في دائرة التوالي؟",
+      "answer": "يكون متساويًا في جميع المكونات.",
+      "difficulty": "متوسط",
+      "subtopic": "العلوم",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "كيف يتوزع الجهد في دائرة التوازي؟",
+      "answer": "يكون متساويًا على الفروع.",
+      "difficulty": "متوسط",
+      "subtopic": "العلوم",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما نوع الموجات الصوتية؟",
+      "answer": "موجات ميكانيكية طولية.",
+      "difficulty": "متوسط",
+      "subtopic": "العلوم",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "أيهما أسرع: الضوء أم الصوت؟",
+      "answer": "الضوء.",
+      "difficulty": "متوسط",
+      "subtopic": "العلوم",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "مم يتكون النظام البيئي؟",
+      "answer": "من مكونات حية ومكونات غير حية.",
+      "difficulty": "متوسط",
+      "subtopic": "العلوم",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "من يبدأ السلسلة الغذائية غالبًا؟",
+      "answer": "المنتجات (النباتات الخضراء).",
+      "difficulty": "متوسط",
+      "subtopic": "العلوم",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما أهمية طبقة الأوزون؟",
+      "answer": "تمتص جزءًا كبيرًا من الأشعة فوق البنفسجية الضارة.",
+      "difficulty": "متوسط",
+      "subtopic": "العلوم",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما مضمون قانون نيوتن الأول للحركة؟",
+      "answer": "الجسم يبقى على حالته من السكون أو الحركة المنتظمة ما لم تؤثر فيه قوة محصلة.",
+      "difficulty": "متوسط",
+      "subtopic": "العلوم",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما قيمة عجلة الجاذبية الأرضية تقريبًا؟",
+      "answer": "9.8 م/ث².",
+      "difficulty": "متوسط",
+      "subtopic": "العلوم",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما الرابطة التي تنتج عن انتقال إلكترونات بين الذرات؟",
+      "answer": "الرابطة الأيونية.",
+      "difficulty": "متوسط",
+      "subtopic": "العلوم",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما الرابطة التي تنتج عن مشاركة إلكترونات بين الذرات؟",
+      "answer": "الرابطة التساهمية.",
+      "difficulty": "متوسط",
+      "subtopic": "العلوم",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما المقصود بالأكسدة في تفاعلات الأكسدة والاختزال؟",
+      "answer": "فقد إلكترونات.",
+      "difficulty": "متوسط",
+      "subtopic": "العلوم",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما المقصود بالاختزال؟",
+      "answer": "اكتساب إلكترونات.",
+      "difficulty": "صعب",
+      "subtopic": "العلوم",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما الجزيء الحامل للمادة الوراثية في الخلية؟",
+      "answer": "DNA.",
+      "difficulty": "صعب",
+      "subtopic": "العلوم",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما وظيفة الميتوكوندريا في الخلية؟",
+      "answer": "إنتاج الطاقة.",
+      "difficulty": "صعب",
+      "subtopic": "العلوم",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما المقصود بتأثير الاحتباس الحراري؟",
+      "answer": "ارتفاع حرارة الأرض نتيجة زيادة غازات الدفيئة.",
+      "difficulty": "صعب",
+      "subtopic": "العلوم",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما مبدأ حفظ الطاقة؟",
+      "answer": "الطاقة لا تفنى ولا تستحدث من العدم ولكن تتحول من شكل لآخر.",
+      "difficulty": "صعب",
+      "subtopic": "العلوم",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما ترجمة كلمة school؟",
+      "answer": "مدرسة.",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما عكس كلمة big؟",
+      "answer": "small.",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما عكس كلمة hot؟",
+      "answer": "cold.",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما جمع كلمة book؟",
+      "answer": "books.",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما جمع كلمة child؟",
+      "answer": "children.",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "أي ضمير نستخدمه مع الولد المفرد؟",
+      "answer": "he.",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "أي ضمير نستخدمه مع البنت المفردة؟",
+      "answer": "she.",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "أي ضمير نستخدمه مع الأشياء غير العاقلة؟",
+      "answer": "it.",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "متى نستخدم a قبل الاسم؟",
+      "answer": "قبل اسم مفرد يبدأ بصوت غير علّة.",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "متى نستخدم an قبل الاسم؟",
+      "answer": "قبل اسم مفرد يبدأ بصوت علّة.",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما معنى جملة Where are you from؟",
+      "answer": "من أين أنت؟",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "أي يوم يأتي بعد Monday؟",
+      "answer": "Tuesday.",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما معنى كلمة river؟",
+      "answer": "نهر.",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما معنى كلمة mountain؟",
+      "answer": "جبل.",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما معنى كلمة library؟",
+      "answer": "مكتبة.",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما صيغة الفعل مع he/she في المضارع البسيط غالبًا؟",
+      "answer": "نضيف s أو es إلى الفعل.",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "أكمل: I ___ a student.",
+      "answer": "am.",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "أكمل: They ___ happy.",
+      "answer": "are.",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما أداة النفي مع المضارع البسيط لضمائر I/you/we/they؟",
+      "answer": "do not (don't).",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما أداة النفي مع المضارع البسيط لضمائر he/she/it؟",
+      "answer": "does not (doesn't).",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ابتدائي"
+    },
+    {
+      "question": "ما الزمن المستخدم للتعبير عن العادات اليومية؟",
+      "answer": "Present Simple.",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما صيغة الماضي من الفعل go؟",
+      "answer": "went.",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما التصريف الثالث للفعل write؟",
+      "answer": "written.",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما صيغة المقارنة من good؟",
+      "answer": "better.",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما صيغة التفضيل من good؟",
+      "answer": "best.",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "متى نستخدم Present Continuous غالبًا؟",
+      "answer": "للتعبير عن حدث يحدث الآن.",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما تركيب Present Perfect؟",
+      "answer": "has/have + past participle.",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما الفرق المختصر بين since وfor؟",
+      "answer": "since لبداية الزمن، وfor لمدة الزمن.",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "أي أداة وصل للعاقل في جمل الوصل؟",
+      "answer": "who.",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "أي أداة وصل لغير العاقل غالبًا؟",
+      "answer": "which.",
+      "difficulty": "سهل",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما التركيب الصحيح للمبني للمجهول في المضارع البسيط؟",
+      "answer": "am/is/are + past participle.",
+      "difficulty": "متوسط",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "بعد أي فعل نستخدم gerund غالبًا: enjoy أم want؟",
+      "answer": "enjoy.",
+      "difficulty": "متوسط",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "بعد أي فعل نستخدم infinitive غالبًا: want أم enjoy؟",
+      "answer": "want.",
+      "difficulty": "متوسط",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما تحويل الصفة quick إلى حال؟",
+      "answer": "quickly.",
+      "difficulty": "متوسط",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما اسم المصدر من decide؟",
+      "answer": "decision.",
+      "difficulty": "متوسط",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما أداة الشرط في الجملة الصفرية Zero Conditional؟",
+      "answer": "if.",
+      "difficulty": "متوسط",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "في Zero Conditional، أي زمن يستخدم في شطري الجملة غالبًا؟",
+      "answer": "Present Simple.",
+      "difficulty": "متوسط",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما الفرق المختصر بين will وbe going to؟",
+      "answer": "will للقرار السريع أو التنبؤ، وbe going to لخطة مسبقة.",
+      "difficulty": "متوسط",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما علامة الاستفهام المذيلة المناسبة: He is a student, ___?",
+      "answer": "isn't he?",
+      "difficulty": "متوسط",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "في reported speech، كيف تتحول كلمة today غالبًا؟",
+      "answer": "that day.",
+      "difficulty": "متوسط",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "اعدادي"
+    },
+    {
+      "question": "ما الجملة التي تعبر عن الفكرة الرئيسية في الفقرة؟",
+      "answer": "Topic sentence.",
+      "difficulty": "متوسط",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما أهمية thesis statement في المقال؟",
+      "answer": "تحدد موقف الكاتب وفكرته الرئيسة.",
+      "difficulty": "متوسط",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "اذكر أداة ربط تستخدم للتناقض.",
+      "answer": "however.",
+      "difficulty": "متوسط",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "اذكر أداة ربط تستخدم للنتيجة.",
+      "answer": "therefore.",
+      "difficulty": "متوسط",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "في الكتابة الرسمية، أيهما أنسب: contractions أم الكلمات الكاملة؟",
+      "answer": "الكلمات الكاملة.",
+      "difficulty": "متوسط",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما التحية الافتتاحية المناسبة غالبًا في البريد الرسمي؟",
+      "answer": "Dear ...",
+      "difficulty": "صعب",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما الهدف من paraphrasing؟",
+      "answer": "إعادة صياغة المعنى بكلمات مختلفة دون تغيير الفكرة.",
+      "difficulty": "صعب",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما مرادف كلمة essential؟",
+      "answer": "necessary.",
+      "difficulty": "صعب",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما مضاد كلمة increase؟",
+      "answer": "decrease.",
+      "difficulty": "صعب",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ثانوي"
+    },
+    {
+      "question": "ما العنصر الأهم لدعم رأي في مقال إقناعي؟",
+      "answer": "evidence (أدلة).",
+      "difficulty": "صعب",
+      "subtopic": "اللغة الإنجليزية",
+      "gradeLevel": "ثانوي"
+    }
+  ]
+}
