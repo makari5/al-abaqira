@@ -209,6 +209,8 @@ function App() {
   }, [])
 
   const progress = ((currentPage + 1) / pageLabels.length) * 100
+  const currentPageLabel = pageLabels[currentPage]
+  const mobileTriggerLabel = currentPage === 0 ? 'الصفحة الرئيسية' : currentPageLabel
 
   const moveToPage = (targetPage: number) => {
     const safePage = Math.max(0, Math.min(pageLabels.length - 1, targetPage))
@@ -423,7 +425,7 @@ function App() {
       <Drawer.Root direction="right" open={isMobileNavOpen} onOpenChange={setIsMobileNavOpen}>
         <Drawer.Trigger asChild>
           <button type="button" className="mobile-nav-trigger" aria-label="فتح قائمة المراحل">
-            المراحل
+            <span className="mobile-nav-trigger__label">{mobileTriggerLabel}</span>
           </button>
         </Drawer.Trigger>
 
@@ -447,8 +449,8 @@ function App() {
                   className={`mobile-drawer-item ${index === currentPage ? 'mobile-drawer-item--active' : ''}`}
                   onClick={() => moveToPage(index)}
                 >
-                  <span>{label}</span>
-                  <span>{index + 1}</span>
+                  <span className="mobile-drawer-item__label">{label}</span>
+                  <span className="mobile-drawer-item__meta">{index === currentPage ? 'أنت هنا' : index + 1}</span>
                 </button>
               ))}
             </div>
@@ -485,24 +487,6 @@ function App() {
         </AnimatePresence>
       </main>
 
-      <footer className="controls">
-        <button
-          type="button"
-          className="ghost-btn"
-          onClick={() => moveToPage(currentPage - 1)}
-          disabled={currentPage === 0}
-        >
-          السابق
-        </button>
-        <button
-          type="button"
-          className="primary-btn"
-          onClick={() => moveToPage(currentPage + 1)}
-          disabled={currentPage === pageLabels.length - 1}
-        >
-          التالي
-        </button>
-      </footer>
     </div>
   )
 }
