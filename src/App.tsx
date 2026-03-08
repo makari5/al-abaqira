@@ -24,6 +24,61 @@ const pageLabels = [
   'بنك الأسئلة',
 ] as const
 
+const subtopicOrderByCategory: Record<string, string[]> = {
+  science: ['الجغرافيا', 'التاريخ', 'العلوم', 'اللغة الإنجليزية'],
+  arts: ['أفلام', 'ترانيم', 'أيقونات'],
+}
+
+const GOOGLE_TRANSLATE_ARTIFACT_SELECTORS = [
+  '.goog-te-banner-frame',
+  '.goog-te-balloon-frame',
+  '.goog-te-menu-frame',
+  '.goog-te-spinner-pos',
+  '#goog-gt-tt',
+  '.goog-text-highlight',
+  'iframe[src*="translate.google"]',
+  'iframe[src*="translate.googleapis"]',
+].join(', ')
+
+const GOOGLE_TRANSLATE_COOKIE_NAMES = ['googtrans', 'googtransopt'] as const
+const GOOGLE_TRANSLATE_STATE_CLASSES = ['translated-ltr', 'translated-rtl'] as const
+
+function markAsNotTranslatable(element: HTMLElement | null) {
+  if (!element) {
+    return
+  }
+
+  if (!element.classList.contains('notranslate')) {
+    element.classList.add('notranslate')
+  }
+
+  if (element.getAttribute('translate') !== 'no') {
+    element.setAttribute('translate', 'no')
+  }
+
+  if (element === document.documentElement) {
+    if (element.getAttribute('lang') !== 'ar') {
+      element.setAttribute('lang', 'ar')
+    }
+
+    if (element.getAttribute('dir') !== 'rtl') {
+      element.setAttribute('dir', 'rtl')
+    }
+  }
+}
+
+function expireTranslateCookie(name: string) {
+  const expiredAt = 'Thu, 01 Jan 1970 00:00:00 GMT'
+  const hostnameParts = window.location.hostname.split('.').filter(Boolean)
+
+  document.cookie = `${name}=; expires=${expiredAt}; path=/`
+
+  for (let index = 0; index < hostnameParts.length - 1; index += 1) {
+    const domain = hostnameParts.slice(index).join('.')
+    document.cookie = `${name}=; expires=${expiredAt}; path=/; domain=.${domain}`
+  }
+}
+
 const pageVariants = {
   enter: (direction: number) => ({
     opacity: 0,
@@ -63,6 +118,13 @@ const itemVariants = {
 type QuestionCardProps = {
   item: QuestionItem
   index: number
+}
+
+type IconQuestionGroup = {
+  key: string
+  image: string
+  imageAlt: string
+  questions: QuestionItem[]
 }
 
 function QuestionCard({ item, index }: QuestionCardProps) {
@@ -127,11 +189,78 @@ function QuestionCard({ item, index }: QuestionCardProps) {
   )
 }
 
+type IconQuestionCardProps = {
+  group: IconQuestionGroup
+  index: number
+}
+
+function IconQuestionCard({ group, index }: IconQuestionCardProps) {
+  const [imageSrc, setImageSrc] = useState(group.image)
+  const [imageFailed, setImageFailed] = useState(false)
+
+  useEffect(() => {
+    setImageSrc(group.image)
+    setImageFailed(false)
+  }, [group.image])
+
+  return (
+    <motion.article
+      layout
+      variants={itemVariants}
+      className="icon-question-card"
+      whileHover={{ y: -4 }}
+      transition={{ type: 'spring', stiffness: 240, damping: 20 }}
+    >
+      <div className="icon-question-card__header">
+        <span className="question-card__index">أيقونة {index + 1}</span>
+        <h3>{group.imageAlt}</h3>
+      </div>
+
+      <div className="icon-question-card__media">
+        {imageFailed ? (
+          <p className="question-card__media-fallback">تعذر تحميل الصورة. حدّث الصفحة وحاول مرة أخرى.</p>
+        ) : (
+          <img
+            src={imageSrc}
+            alt={group.imageAlt}
+            loading="lazy"
+            onError={() => {
+              if (!imageSrc) {
+                setImageFailed(true)
+                return
+              }
+
+              if (!imageSrc.includes('cb=')) {
+                const separator = imageSrc.includes('?') ? '&' : '?'
+                setImageSrc(`${imageSrc}${separator}cb=1`)
+                return
+              }
+
+              setImageFailed(true)
+            }}
+          />
+        )}
+      </div>
+
+      <div className="icon-question-card__qa-list">
+        {group.questions.map((item, questionIndex) => (
+          <div key={`${group.key}-q-${questionIndex}`} className="icon-question-card__qa">
+            <h4>
+              س{questionIndex + 1}: {item.question}
+            </h4>
+            <p>ج: {item.answer}</p>
+          </div>
+        ))}
+      </div>
+    </motion.article>
+  )
+}
+
 function App() {
   const [currentPage, setCurrentPage] = useState(0)
   const [direction, setDirection] = useState(1)
   const [categoryId, setCategoryId] = useState(questionCategories[0]?.id ?? '')
-  const [scienceSubtopic, setScienceSubtopic] = useState('')
+  const [activeSubtopic, setActiveSubtopic] = useState('')
   const [isMobileNavOpen, setIsMobileNavOpen] = useState(false)
 
   const selectedCategory = useMemo(
@@ -139,18 +268,22 @@ function App() {
     [categoryId],
   )
 
-  const scienceSubtopics = useMemo(() => {
-    if (!selectedCategory || selectedCategory.id !== 'science') {
+  const categorySubtopics = useMemo(() => {
+    if (!selectedCategory) {
       return [] as string[]
     }
 
-    const preferredOrder = ['الجغرافيا', 'التاريخ', 'العلوم', 'اللغة الإنجليزية']
+    const preferredOrder = subtopicOrderByCategory[selectedCategory.id]
+    if (!preferredOrder) {
+      return [] as string[]
+    }
+
     const subtopicsFromData = Array.from(
       new Set(selectedCategory.questions.map((question) => question.subtopic).filter(Boolean)),
     ) as string[]
 
     return preferredOrder
-      .filter((topic) => subtopicsFromData.includes(topic))
+      .filter((topic) => subtopicsFromData.includes(topic) || selectedCategory.id === 'arts')
       .concat(subtopicsFromData.filter((topic) => !preferredOrder.includes(topic)))
   }, [selectedCategory])
 
@@ -159,33 +292,60 @@ function App() {
       return [] as QuestionItem[]
     }
 
-    if (selectedCategory.id !== 'science') {
+    if (categorySubtopics.length === 0) {
       return selectedCategory.questions
     }
 
-    if (!scienceSubtopic) {
+    if (!activeSubtopic) {
       return [] as QuestionItem[]
     }
 
-    return selectedCategory.questions.filter((question) => question.subtopic === scienceSubtopic)
-  }, [scienceSubtopic, selectedCategory])
+    return selectedCategory.questions.filter((question) => question.subtopic === activeSubtopic)
+  }, [activeSubtopic, categorySubtopics.length, selectedCategory])
 
-  useEffect(() => {
-    if (!selectedCategory || selectedCategory.id !== 'science') {
-      return
+  const iconQuestionGroups = useMemo(() => {
+    if (selectedCategory?.id !== 'arts' || activeSubtopic !== 'أيقونات') {
+      return [] as IconQuestionGroup[]
     }
 
-    if (scienceSubtopics.length === 0) {
-      if (scienceSubtopic !== '') {
-        setScienceSubtopic('')
+    const grouped = new Map<string, IconQuestionGroup>()
+
+    visibleQuestions.forEach((item) => {
+      const imageKey = item.image ?? `${item.question}-${item.answer}`
+      const existingGroup = grouped.get(imageKey)
+
+      if (existingGroup) {
+        existingGroup.questions.push(item)
+        return
+      }
+
+      grouped.set(imageKey, {
+        key: imageKey,
+        image: item.image ?? '',
+        imageAlt: item.imageAlt ?? 'أيقونة قديس',
+        questions: [item],
+      })
+    })
+
+    return Array.from(grouped.values())
+  }, [activeSubtopic, selectedCategory?.id, visibleQuestions])
+
+  useEffect(() => {
+    if (categorySubtopics.length === 0) {
+      if (activeSubtopic !== '') {
+        setActiveSubtopic('')
       }
       return
     }
 
-    if (!scienceSubtopics.includes(scienceSubtopic)) {
-      setScienceSubtopic(scienceSubtopics[0])
+    if (!activeSubtopic || !categorySubtopics.includes(activeSubtopic)) {
+      const firstSubtopicWithQuestions =
+        categorySubtopics.find((topic) =>
+          selectedCategory?.questions.some((question) => question.subtopic === topic),
+        ) ?? categorySubtopics[0]
+      setActiveSubtopic(firstSubtopicWithQuestions)
     }
-  }, [scienceSubtopic, scienceSubtopics, selectedCategory])
+  }, [activeSubtopic, categorySubtopics, selectedCategory])
 
   useEffect(() => {
     const lenis = new Lenis({
@@ -205,6 +365,70 @@ function App() {
     return () => {
       window.cancelAnimationFrame(rafId)
       lenis.destroy()
+    }
+  }, [])
+
+  useEffect(() => {
+    let isCleaning = false
+
+    const protectFromTranslation = () => {
+      if (isCleaning) {
+        return
+      }
+
+      isCleaning = true
+
+      try {
+        ;[
+          document.documentElement,
+          document.body,
+          document.getElementById('root'),
+          document.querySelector('.app-shell'),
+        ].forEach((element) => {
+          if (element instanceof HTMLElement) {
+            markAsNotTranslatable(element)
+          }
+        })
+
+        GOOGLE_TRANSLATE_COOKIE_NAMES.forEach(expireTranslateCookie)
+
+        ;[document.documentElement, document.body].forEach((element) => {
+          GOOGLE_TRANSLATE_STATE_CLASSES.forEach((className) => {
+            if (element.classList.contains(className)) {
+              element.classList.remove(className)
+            }
+          })
+
+          if (element.style.top) {
+            element.style.removeProperty('top')
+          }
+        })
+
+        document.querySelectorAll<HTMLElement>(GOOGLE_TRANSLATE_ARTIFACT_SELECTORS).forEach((element) => {
+          if (!element.closest('#root')) {
+            element.remove()
+          }
+        })
+      } finally {
+        isCleaning = false
+      }
+    }
+
+    protectFromTranslation()
+
+    const observer = new MutationObserver(() => {
+      protectFromTranslation()
+    })
+
+    observer.observe(document.documentElement, {
+      subtree: true,
+      childList: true,
+      attributes: true,
+      attributeFilter: ['class', 'style'],
+    })
+
+    return () => {
+      observer.disconnect()
     }
   }, [])
 
@@ -359,7 +583,7 @@ function App() {
                 type="button"
                 onClick={() => {
                   setCategoryId(category.id)
-                  setScienceSubtopic('')
+                  setActiveSubtopic('')
                 }}
                 className={`tab ${category.id === selectedCategory?.id ? 'tab--active' : ''}`}
               >
@@ -368,16 +592,18 @@ function App() {
             ))}
           </div>
 
-          {selectedCategory?.id === 'science' ? (
+          {categorySubtopics.length > 0 ? (
             <div className="science-subtopics">
-              <p className="science-subtopics__label">اختيارات فقرة العلم</p>
+              <p className="science-subtopics__label">
+                {selectedCategory?.id === 'science' ? 'اختيارات فقرة العلم' : 'اختيارات فقرة الفنون'}
+              </p>
               <div className="category-tabs">
-                {scienceSubtopics.map((topic) => (
+                {categorySubtopics.map((topic) => (
                   <button
                     key={topic}
                     type="button"
-                    onClick={() => setScienceSubtopic(topic)}
-                    className={`tab ${scienceSubtopic === topic ? 'tab--active' : ''}`}
+                    onClick={() => setActiveSubtopic(topic)}
+                    className={`tab ${activeSubtopic === topic ? 'tab--active' : ''}`}
                   >
                     {topic}
                   </button>
@@ -391,11 +617,22 @@ function App() {
           <motion.section className="glass-card" variants={itemVariants}>
             <h2>{selectedCategory.title}</h2>
             <p className="section-note">{selectedCategory.description}</p>
-            <div className="question-grid">
-              {visibleQuestions.map((item, index) => (
-                <QuestionCard key={`${selectedCategory.id}-${index}`} item={item} index={index} />
-              ))}
-            </div>
+            {categorySubtopics.length > 0 && visibleQuestions.length === 0 ? (
+              <p className="section-note">لا توجد أسئلة مضافة في هذا الاختيار الآن.</p>
+            ) : null}
+            {selectedCategory.id === 'arts' && activeSubtopic === 'أيقونات' ? (
+              <div className="icon-question-grid">
+                {iconQuestionGroups.map((group, index) => (
+                  <IconQuestionCard key={`${selectedCategory.id}-${group.key}`} group={group} index={index} />
+                ))}
+              </div>
+            ) : (
+              <div className="question-grid">
+                {visibleQuestions.map((item, index) => (
+                  <QuestionCard key={`${selectedCategory.id}-${index}`} item={item} index={index} />
+                ))}
+              </div>
+            )}
           </motion.section>
         ) : null}
       </div>
@@ -403,7 +640,7 @@ function App() {
   }
 
   return (
-    <div className="app-shell" dir="rtl">
+    <div className="app-shell notranslate" dir="rtl" translate="no">
       <div className="bg-orb bg-orb--one" />
       <div className="bg-orb bg-orb--two" />
       <div className="bg-grid" />
